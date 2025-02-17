@@ -1,6 +1,6 @@
 # Custom filters
 
-## Filters that can be hidden via YouTube ReVanced custom option
+## Filters that can be hidden via YouTube ReVanced custom filters option
 
 | Filter       | Description       | Image |
 |---------|-------------------|-------|
