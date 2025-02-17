@@ -2,7 +2,7 @@
 
 ## Filters:
 
-| Filter Name       | Description       | Image |
+| Filter       | Description       | Image |
 |-------------------|-------------------|-------|
 | `page_header`  | Hides the entire top part of a channel page | Soon |
 | `subscribe_button`  | Hides the subscribe button  |Soon|
