@@ -1,6 +1,6 @@
-# revanced-custom-filters
+# Custom filters
 
-## Filters:
+## The following list contains filters that can be hidden with the custom filters option in YouTube ReVanced
 
 | Filter       | Description       | Image |
 |---------|-------------------|-------|
