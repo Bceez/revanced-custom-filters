@@ -1,9 +1,8 @@
-# Custom filters
-
-## Elements that can be hidden via YouTube ReVanced custom filters option
+# Custom filters: 
 
 | Filter       | Description       | Image |
 |---------|-------------------|-------|
+| `avatar` | Hides profile pictures everywhere | Soon |
 | `engagement_dislike_button`  | Hides the dislike button in comments  | Soon |
 | `image_banner`  | Hides the channel banner in a channel page | Soon |
 | `page_header`  | Hides the entire top part of a channel page | Soon |
