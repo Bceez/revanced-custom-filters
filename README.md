@@ -4,6 +4,7 @@
 
 | Filter       | Description       | Image |
 |---------|-------------------|-------|
+| `engagement_dislike_button`  | Hides the dislike button in comments  | Soon |
 | `image_banner`  | Hides the channel banner in a channel page | Soon |
 | `page_header`  | Hides the entire top part of a channel page | Soon |
 | `subscribe_button`  | Hides the subscribe button  |Soon|
