@@ -8,5 +8,5 @@
 | `page_header`                           | Hides the entire top part of a channel page                 | Soon  |
 | `status_dot`                            | Hides the blue dot in the subscriptions tab                 | Soon  |
 | `subscribe_button`                      | Hides the subscribe button                                  | Soon  |
-| `thumbnai`                              | Hides thumbnails in feeds                                   | Soon  |
+| `thumbnail`                              | Hides thumbnails in feeds                                   | Soon  |
 | `video_lockup_with_attachment.eml$high-ptsZ` | Hides "Member only" videos in the feed (not in channel pages) | Soon  |
