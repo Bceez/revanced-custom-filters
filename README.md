@@ -8,6 +8,7 @@
 | `more_drawer`                           | Hides the compass button at the top left of the home tab    | Soon  |
 | `page_header`                           | Hides the entire top part of a channel page                 | Soon  |
 | `player_overlay_video_heading`          | Hides the title of the video in the video player            | Soon  |
+| `post_comments_carousel`                | Hides the comments carousel below a community post          | Soon  |
 | `post_like_dislike`                     | Hides the like and dislike buttons on community posts       | Soon  |
 | `status_dot`                            | Hides the blue dot in the subscriptions tab                 | Soon  |
 | `subscribe_button`                      | Hides the subscribe button                                  | Soon  |
